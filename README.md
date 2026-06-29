@@ -50,7 +50,6 @@ A modern web app focusing on clean UI and smooth user experience.
 - 💼 GitHub: [chetali0201](https://github.com/chetali0201)
 - 📧 Email: chetalikumbhare0212@gmail.com
   
-
 ---
 
 ⭐ *Always learning, always building.*
