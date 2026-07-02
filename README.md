@@ -52,4 +52,4 @@ A modern web app focusing on clean UI and smooth user experience.
   
 ---
 
-⭐ *Always learning, always building.*
+⭐ Always learning, always building.
